@@ -1,5 +1,7 @@
 from icecream import ic
 
+# combine 2 lists to one
+
 def myzip(it1, it2):
     it1 = iter(it1)
     it2 = iter(it2)
